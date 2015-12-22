@@ -1,7 +1,7 @@
 name: sakellarios
 favicon: null
 layout_spectrum: 0.9635544552002102
-typography_spectrum: 0.05852066120132804
+typography_spectrum: 0.12826
 title: Sakellarios The Grid Site
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#DD403A'
   brandStrength: 0.5581469002645463
   lightness: 0.8351960424333811
-  saturation: 0.5791889396496117
+  saturation: 0.6875
   rhythmicContrast: 0.5498446912970394
 purpose: []
